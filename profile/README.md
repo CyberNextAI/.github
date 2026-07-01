@@ -1,4 +1,4 @@
-# CyberNextAI Infrastructure
+# Cyber Next AI
 
 ## 中文
 
